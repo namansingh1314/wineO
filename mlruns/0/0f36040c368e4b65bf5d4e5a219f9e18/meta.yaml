@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/naman/Desktop/wino/mlruns/0/0f36040c368e4b65bf5d4e5a219f9e18/artifacts
+end_time: 1717437782107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f36040c368e4b65bf5d4e5a219f9e18
+run_name: agreeable-colt-836
+run_uuid: 0f36040c368e4b65bf5d4e5a219f9e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717437768507
+status: 3
+tags: []
+user_id: naman
