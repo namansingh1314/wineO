@@ -1,5 +1,7 @@
-# End-to-end-Machine-Learning-Project-with-MLflow
+live demo :https://youtu.be/LtkYIAwEyww
+![criteria](https://github.com/namansingh1314/wineO/assets/120774187/0f7aec80-3d9f-4052-a8a5-bdf60aa4b1bd)
 
+![result](https://github.com/namansingh1314/wineO/assets/120774187/af254c7c-b677-46bf-9c64-21671f9e9f91)
 
 ## Workflows
 
@@ -21,7 +23,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+https://github.com/namansingh1314/wineO
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -164,5 +166,10 @@ MLflow
  - Its Production Grade
  - Trace all of your expriements
  - Logging & tagging your model
+![actionsrunner](https://github.com/namansingh1314/wineO/assets/120774187/2758ad8e-1816-4c2c-8d41-b203cf22ac03)
+
+![ec2ubuntu](https://github.com/namansingh1314/wineO/assets/120774187/4f383ba8-7bf0-4b6c-9aa2-6dc2976c1376)
+
+![firstec2instance](https://github.com/namansingh1314/wineO/assets/120774187/5aeb56c3-995c-4a58-bd23-7f5b386e996a)
 
 
